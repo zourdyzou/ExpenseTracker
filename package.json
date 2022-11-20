@@ -17,6 +17,6 @@
   "homepage": "https://github.com/zourdycodes/budget-app#readme",
   "description": "",
   "dependencies": {
-    "node-sass": "^6.0.0"
+    "node-sass": "^8.0.0"
   }
 }
